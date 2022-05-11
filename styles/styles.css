@@ -1,0 +1,9 @@
+body {
+  background-color : turquoise;
+
+}
+h1 , h2 , h3 , h4 , h5{color: #FF7E30}
+hr {border-style : dotted;
+border-width: medium;
+color:  #123524
+}
